@@ -14,6 +14,16 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
+Technology used 
+
+Javascript 
+hhtml
+node
+
+Sole contributer 
+Abdikadir Dahir
+
+
 Table of content 
 
 - [Anchors](#anchors)
@@ -28,11 +38,3 @@ Table of content
 
 ``
 
-Technology used 
-
-Javascript 
-hhtml
-node
-
-Sole contributer 
-Abdikadir Dahir
