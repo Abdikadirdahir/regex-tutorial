@@ -26,7 +26,13 @@ Table of content
 - [Character Escapes](#character-escapes)
 
 
+``
+
 Technology used 
+
 Javascript 
 hhtml
 node
+
+Sole contributer 
+Abdikadir Dahir
